@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+/* * {
+  margin: 10;
+  padding: 10;
+  box-sizing: inherit;
+} */
+
+/* html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+} */
+/* h2 {
+  color: black;
+} */
+img {
+  height: auto;
+  width: 500px;
+}
+body {
+  /* font-family: "Nunito", sans-serif;
+  font-weight: 400;
+  /* height: 100vh; */
+  font-family: "Nunito", sans-serif;
+  color: #ffffff;
+  background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.Ingredients-items,
+.items {
+  padding-left: 300px;
+  text-align: left;
+}
+.Ingredients,
+.direction {
+  font-size: 30px;
+  color: black;
+  background-color: bisque;
+}
+h1 {
+  background-color: black;
+  height: 60px;
+  text-align: center;
+  padding-top: 20px;
+}
+h3 {
+  color: black;
+
+  font-size: 30px;
+}
+a {
+  color: bisque;
+}
